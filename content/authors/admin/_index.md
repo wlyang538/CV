@@ -43,32 +43,38 @@ education:
     date_start: 2022-08-01
     date_end: 2024-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Research field: NLP specific in QA, Attack and Detection, summarization, etc.
+      - Grade: Average "Distinction", HD in some subject.
+      - Teaching staff of EIS and teach "Sentiment Web", "Information visualisation", and "Systems development methodology" and "Networks and Communication".
+      - Lead developer of UOW and UNSW's joint AI education project - "safe to fail ai", which has been implemented in teaching.
+      - Participated in the research and development of numerous other AI projects.
+      - Participate in paper publication and also have own published papers.
+    
+  - area: Master of Computer Science
+    institution: University of Wollongong
+    date_start: 2018-08-01
+    date_end: 2021-08-01
     summary: |
-      GPA: 3.8/4.0
+      Major: Machine learning and big data
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Algorithm and data structure
+      - Machine Learning algorithm and application
+      - Big data analysis
+      - Computer vision
+      - Percept & Planning
+      - Reasoning & Learning
+  - area: Communication Technology
+    institution: The Collage of Post and Telecommunication of Wuhan Institute of Technology
+    date_start: 2009-09-01
+    date_end: 2013-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - C/C++ 
+      - Database system
+      - Communications engineering
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -100,7 +106,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
